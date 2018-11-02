@@ -1,6 +1,8 @@
 # Testing_Branching
 Just testing multiple branching
 
-These changes are commited to the new brach.
+First change was correct.
 
-Now i am in the dev NEw branch from the main develop branch.
+2nd Change is also correct
+
+3rd change is wrong and now i have to go back to the first change.
